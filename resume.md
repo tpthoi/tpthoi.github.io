@@ -16,10 +16,10 @@
 <li>Design data schema and operate internal data warehouses and SQL/NoSQL database systems</li>
 <li>Own the design, development, and maintenance of ongoing metrics, reports, analyses, and dashboards to drive key
     business decisions</li>
-<li>Monitor and troubleshoot operational or data issues in the data pipelines</lil>
+<li>Monitor and troubleshoot operational or data issues in the data pipelines</li>
 <li>Drive architectural plans and implementation for future data storage, reporting, and analytic solutions</lil>
 <li>Work collaboratively with Business Analysts, Data Scientists, and other internal partners to identify
-    opportunities/problems</lil>
+    opportunities/problems</li>
 <li>Provide assistance to the team with troubleshooting, researching the root cause, and thoroughly resolving defects in
     the event of a problem</li>
 
