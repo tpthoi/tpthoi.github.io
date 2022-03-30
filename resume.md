@@ -2,18 +2,18 @@
 
 **Incoming Data Engineer @ Amazon**
 
-tpthoi@protonmail.com
-https://www.linkedin.com/in/tysonthoi
+<a href="mailto:tpthoi@protonmail.com">tpthoi@protonmail.com</a>
 
+<a href="https://www.linkedin.com/in/tysonthoi" target="_blank">Linkedin</a>
 # Summary
 
-<p>5th Year Student Looking for an opportunity to showcase knowledge and experience in a working environment.</p>
+>5th Year Student Looking for an opportunity to showcase knowledge and experience in a working environment.</p>
 
 ![](https://media-exp1.licdn.com/dms/image/C5603AQHGDXy15OS1Rg/profile-displayphoto-shrink_200_200/0/1610325114932?e=1654128000&v=beta&t=l6mw82csZYByi_QES__b4CU94K8gCIz8lwT-32nFvzY)
 
 # Work Experience
 
-#### Data Engineer I Intern
+### Data Engineer I Intern
 
 <h6>Amazon</h6>
 
@@ -28,10 +28,12 @@ https://www.linkedin.com/in/tysonthoi
     opportunities/problems</li>
 <li>Provide assistance to the team with troubleshooting, researching the root cause, and thoroughly resolving defects in
     the event of a problem</li>
+    
 
-#### Service Desk Analyst Intern
+### Service Desk Analyst Intern
 
 <h6>City Of Seattle</h6>
+
 <li>Provide tier one and two technical support with a high level of customer satisfaction to citywide employees.</li>
 <li>Provides support for technical incident resolution and requests reported to the service desk.</li>
 <li>Responsibilities include initial assessment, triage, documentation, research, and resolution of incidents and
