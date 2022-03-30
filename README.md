@@ -1,2 +1,1 @@
-# tpthoi.github.io
-Lab 1
+# Lab 1
