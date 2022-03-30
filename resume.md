@@ -1,14 +1,20 @@
-# Resume
-
-> · Tyson Thoi · 6313 S Eddy Ct · Seattle, WA 98118 · (206) 280-2057 · 
-> 
-![](https://media-exp1.licdn.com/dms/image/C5603AQHGDXy15OS1Rg/profile-displayphoto-shrink_200_200/0/1610325114932?e=1654128000&v=beta&t=l6mw82csZYByi_QES__b4CU94K8gCIz8lwT-32nFvzY)
+# Tyson Thoi
 
 **Incoming Data Engineer @ Amazon**
 
-## Experience
+tpthoi@protonmail.com
+https://www.linkedin.com/in/tysonthoi
+
+# Summary
+
+<p>5th Year Student Looking for an opportunity to showcase knowledge and experience in a working environment.</p>
+
+![](https://media-exp1.licdn.com/dms/image/C5603AQHGDXy15OS1Rg/profile-displayphoto-shrink_200_200/0/1610325114932?e=1654128000&v=beta&t=l6mw82csZYByi_QES__b4CU94K8gCIz8lwT-32nFvzY)
+
+# Work Experience
 
 #### Data Engineer I Intern
+
 <h6>Amazon</h6>
 
 <li>Design, implement, and automate deployment of our distributed system for collecting and processing log events from
@@ -24,6 +30,7 @@
     the event of a problem</li>
 
 #### Service Desk Analyst Intern
+
 <h6>City Of Seattle</h6>
 <li>Provide tier one and two technical support with a high level of customer satisfaction to citywide employees.</li>
 <li>Provides support for technical incident resolution and requests reported to the service desk.</li>
@@ -33,14 +40,15 @@
     problem understanding, ensuring timely resolution or escalation, communicating promptly on progress, and handling
     customers with a professional attitude.</li>
 
-## Education
+# Education
 
-#### University of Washington, Seattle
-<div>Bachelor of Science in Informatics: Information Assurance and Cybersecurity, Data Science Option</div>
-<div>Bachelor of Arts in Geography with Data Science Option</div>
-<p>GPA: 3.4</p>
+#### University of Washington (Seattle, Washington)
 
-## Awards & Certifications
+- Bachelor of Science in Informatics: Information Assurance and Cybersecurity, Data Science Option
+- Bachelor of Arts in Geography with Data Science Option
+- GPA: 3.4
+
+# Awards & Certifications
 
 <li>UW Annual Dean's List (2020-2021)</li>
 <li>
