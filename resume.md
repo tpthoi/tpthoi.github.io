@@ -1,12 +1,14 @@
 # Resume
 
-**Tyson Thoi · 6313 S Eddy Ct · Seattle, WA 98118 · (206) 280-2057 ·**
+> · Tyson Thoi · 6313 S Eddy Ct · Seattle, WA 98118 · (206) 280-2057 · 
+> 
 ![](https://media-exp1.licdn.com/dms/image/C5603AQHGDXy15OS1Rg/profile-displayphoto-shrink_200_200/0/1610325114932?e=1654128000&v=beta&t=l6mw82csZYByi_QES__b4CU94K8gCIz8lwT-32nFvzY)
+
 **Incoming Data Engineer @ Amazon**
 
 ## Experience
 
-<h5>Data Engineer I Intern</h5>
+#### Data Engineer I Intern
 <h6>Amazon</h6>
 
 <li>Design, implement, and automate deployment of our distributed system for collecting and processing log events from
@@ -21,7 +23,7 @@
 <li>Provide assistance to the team with troubleshooting, researching the root cause, and thoroughly resolving defects in
     the event of a problem</li>
 
-<h5>Service Desk Analyst Intern</h5>
+#### Service Desk Analyst Intern
 <h6>City Of Seattle</h6>
 <li>Provide tier one and two technical support with a high level of customer satisfaction to citywide employees.</li>
 <li>Provides support for technical incident resolution and requests reported to the service desk.</li>
@@ -33,7 +35,7 @@
 
 ## Education
 
-<h5>University of Washington, Seattle</h5>
+#### University of Washington, Seattle
 <div>Bachelor of Science in Informatics: Information Assurance and Cybersecurity, Data Science Option</div>
 <div>Bachelor of Arts in Geography with Data Science Option</div>
 <p>GPA: 3.4</p>
